@@ -10,4 +10,7 @@ int main()
 	char name[] = "ATON"
 	int xx = 50;
 	
+	float degree = 15.2;
+	int q = 40;
+	
 }
