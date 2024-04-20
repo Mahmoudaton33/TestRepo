@@ -10,4 +10,8 @@ int main()
 	char name[] = "ATON"
 	int xx = 50;
 	
+	
+	
+	
+	int speed = 77;
 }
